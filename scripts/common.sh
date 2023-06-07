@@ -2,7 +2,7 @@
 
 # Variable Declaration
 
-KUBERNETES_VERSION="1.26.0"
+KUBERNETES_VERSION="1.23.5-00"
 
 # disable swap 
 sudo swapoff -a
